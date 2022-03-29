@@ -8,7 +8,7 @@ export class TestController{
 
     @Get()
     findAll() {
-        return "hello";
+        return "hello word";
     }
 
 
